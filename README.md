@@ -15,15 +15,15 @@ The folder structure is as follows:
 - Gemma-7B-Waste-Stormwater-Management/
 - ├── README.md
 - ├── model/
-  │   - ├── config.json
-  │   - └── model_weights.bin
+  - │    ├── config.json
+  - │   └── model_weights.bin
 - ├── data/
- │   - ├── raw/
- │   - └── processed/
+    - │   ├── raw/
+    - │   └── processed/
 - ├── scripts/
-│   - ├── preprocess.py
-│   - ├── train.py
-│   - └── inference.py
+- │   - ├── preprocess.py
+  - │   - ├── train.py
+  - │   - └── inference.py
 - ├── notebooks/
 │   - └── examples.ipynb
 - ├── requirements.txt
