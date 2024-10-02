@@ -12,9 +12,9 @@ Key features of this fine-tuned model include:
 
 The folder structure is as follows:
 
-Gemma-7B-Waste-Stormwater-Management/
-├── README.md
-├── model/
+*Gemma-7B-Waste-Stormwater-Management/
+*├── README.md
+*├── model/
 │   ├── config.json
 │   └── model_weights.bin
 ├── data/
