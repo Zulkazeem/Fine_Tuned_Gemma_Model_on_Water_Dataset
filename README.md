@@ -13,21 +13,21 @@ Key features of this fine-tuned model include:
 The folder structure is as follows:
 
 - Gemma-7B-Waste-Stormwater-Management/
-- ├── README.md
-- ├── model/
-  - │   ├── config.json
-  - │   └── model_weights.bin
-- ├── data/
-    - │   ├── raw/
-    - │   └── processed/
-- ├── scripts/
-- │      ├── preprocess.py
-  - │    ├── train.py
-  - │    └── inference.py
-- ├── notebooks/
-  - │   └── examples.ipynb
-- ├── requirements.txt
-- ├── .gitignore
-- └── LICENSE
+  - ├── README.md
+  - ├── model/
+    - │   ├── config.json
+    - │   └── model_weights.bin
+  - ├── data/
+      - │   ├── raw/
+      - │   └── processed/
+  - ├── scripts/
+  - │      ├── preprocess.py
+    - │    ├── train.py
+    - │    └── inference.py
+  - ├── notebooks/
+    - │   └── examples.ipynb
+  - ├── requirements.txt
+  - ├── .gitignore
+  - └── LICENSE
 
 This fine-tuned Gemma 7B model represents a significant advancement in applying large language models to specific environmental engineering challenges, potentially revolutionizing how municipalities and utilities manage their waste and stormwater resources.
