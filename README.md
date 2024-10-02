@@ -24,8 +24,8 @@ The folder structure is as follows:
   - │      ├── preprocess.py
     - │    ├── train.py
     - │    └── inference.py
-  - ├── notebooks/
-    - │   └── examples.ipynb
+  - ├── demo/
+    - │   └── Hydromind.py
   - ├── requirements.txt
   - ├── .gitignore
   - └── LICENSE
