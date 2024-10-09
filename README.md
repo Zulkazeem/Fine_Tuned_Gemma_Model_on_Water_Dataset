@@ -24,7 +24,7 @@ The folder structure is as follows:
     - │    ├── preprocess.py
     - │    ├── data_merge.py
     - │    └── data_2_jsonl.py
-    - ├── demo/
+  - ├── demo/
     - │   └── Hydrosense.py
   - ├── requirements.txt
   - ├── .gitignore
