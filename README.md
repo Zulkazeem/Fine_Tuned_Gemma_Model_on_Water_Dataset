@@ -15,7 +15,7 @@ The folder structure is as follows:
 - Gemma-7B-Waste-Stormwater-Management/
   - ├── README.md
   - ├── model/
-    - │   ├── config.json
+    - │   ├── gemma_fine_tune.py
     - │   └── data_generation/
   - ├── data/
       - │   ├── raw/
