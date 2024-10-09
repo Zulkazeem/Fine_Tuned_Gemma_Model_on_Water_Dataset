@@ -16,16 +16,16 @@ The folder structure is as follows:
   - ├── README.md
   - ├── model/
     - │   ├── config.json
-    - │   └── model_weights.bin
+    - │   └── data_generation/
   - ├── data/
       - │   ├── raw/
       - │   └── processed/
   - ├── scripts/
-  - │      ├── preprocess.py
-    - │    ├── train.py
-    - │    └── inference.py
-  - ├── demo/
-    - │   └── Hydromind.py
+    - │    ├── preprocess.py
+    - │    ├── data_merge.py
+    - │    └── data_2_jsonl.py
+    - ├── demo/
+    - │   └── Hydrosense.py
   - ├── requirements.txt
   - ├── .gitignore
   - └── LICENSE
