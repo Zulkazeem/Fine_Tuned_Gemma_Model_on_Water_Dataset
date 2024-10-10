@@ -1,0 +1,8 @@
+# Requirements
+pip install the following dependencies
+numpy
+pandas
+keras-nlp
+keras
+
+
