@@ -21,9 +21,9 @@ The folder structure is as follows:
       - │   ├── raw/
       - │   └── processed/
   - ├── scripts/
-    - │    ├── preprocess.py
-    - │    ├── data_merge.py
-    - │    └── data_2_jsonl.py
+    - │    ├── Pseudo_Wastewater_Data.ipynb
+    - │    ├── Data_Preprocess.ipynb
+    - │    └── Pseudo_Stormwater_Data.ipynb
   - ├── demo/
     - │   └── Hydrosense.py
   - ├── requirements.txt
