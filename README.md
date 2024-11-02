@@ -16,7 +16,6 @@ The folder structure is as follows:
   - ├── README.md
   - ├── model/
     - │   ├── gemma_fine_tune.py
-    - │   └── data_generation/
   - ├── data/
       - │   ├── raw/
       - │   └── processed/
