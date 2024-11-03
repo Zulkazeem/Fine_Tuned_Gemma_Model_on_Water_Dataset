@@ -16,9 +16,6 @@ The folder structure is as follows:
   - ├── README.md
   - ├── model/
     - │   ├── gemma_fine_tune.py
-  - ├── data/
-      - │   ├── raw/
-      - │   └── processed/
   - ├── scripts/
     - │    ├── Pseudo_Wastewater_Data.ipynb
     - │    ├── Data_Preprocess.ipynb
