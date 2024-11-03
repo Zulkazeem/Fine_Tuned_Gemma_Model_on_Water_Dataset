@@ -16,14 +16,13 @@ The folder structure is as follows:
   - ├── README.md
   - ├── model/
     - │   ├── gemma_fine_tune.py
-    - │   └── data_generation/
   - ├── data/
       - │   ├── raw/
       - │   └── processed/
   - ├── scripts/
-    - │    ├── preprocess.py
-    - │    ├── data_merge.py
-    - │    └── data_2_jsonl.py
+    - │    ├── Pseudo_Wastewater_Data.ipynb
+    - │    ├── Data_Preprocess.ipynb
+    - │    └── Pseudo_Stormwater_Data.ipynb
   - ├── demo/
     - │   └── Hydrosense.py
   - ├── requirements.txt
