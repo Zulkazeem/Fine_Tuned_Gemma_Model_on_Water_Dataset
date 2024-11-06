@@ -1,8 +1,10 @@
 # Requirements
 pip install the following dependencies
-numpy
-pandas
-keras-nlp
 keras
+tensorflow>=2.10.0
+transformers
+keras-nlp>=0.4.0
+gradio>=3.0.0
+huggingface_hub
 
 
