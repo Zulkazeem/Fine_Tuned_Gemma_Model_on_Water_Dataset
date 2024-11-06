@@ -10,20 +10,18 @@ Key features of this fine-tuned model include:
 * Cost-Benefit Analysis: Offers economic evaluations of proposed interventions or system changes, considering both short-term and long-term impacts.
 * Scenario Modeling: Allows users to simulate various scenarios, helping to prepare for different environmental conditions or policy changes.
 
-The folder structure is as follows:
+# The folder structure is as follows:
 
 - Gemma-7B-Waste-Stormwater-Management/
   - ├── README.md
   - ├── model/
     - │   ├── gemma_fine_tune.py
-  - ├── data/
-    - │   ├── raw/
   - ├── scripts/
     - │    ├── Pseudo_Wastewater_Data.ipynb
     - │    ├── Data_Preprocess.ipynb
     - │    └── Pseudo_Stormwater_Data.ipynb
   - ├── demo/
-    - │   └── Hydrosense.py
+    - │   └── app.py
   - ├── requirements.txt
   - ├── .gitignore
   - └── LICENSE
