@@ -1,5 +1,5 @@
 # Fine_Tuned_Gemma_Model_on_Water_Dataset
-This Gemma 7B model has been fine-tuned on a comprehensive waste and stormwater dataset to facilitate advanced resource management, efficient allocation, and accelerated decision-making in the field of environmental engineering. The specialized model leverages the powerful base architecture of Gemma 7B, originally developed by Google, and adapts it to the specific needs of waste and stormwater management.
+This Gemma 2B model has been fine-tuned on a comprehensive waste and stormwater dataset to facilitate advanced resource management, efficient allocation, and accelerated decision-making in the field of environmental engineering. The specialized model leverages the powerful base architecture of Gemma 7B, originally developed by Google, and adapts it to the specific needs of waste and stormwater management.
 
 Key features of this fine-tuned model include:
 * Domain-Specific Knowledge: Trained on extensive waste and stormwater data, including treatment processes, infrastructure details, and environmental impact assessments.
